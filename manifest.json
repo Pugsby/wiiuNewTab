@@ -1,0 +1,9 @@
+{
+  "name": "Wii U New Tab",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "page/index.html"
+  },
+  "permissions": ["storage", "bookmarks"]
+}
